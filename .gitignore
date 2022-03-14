@@ -1,0 +1,7 @@
+#gitignore
+.Rhistory
+.Rproj.user
+*.spl
+*.log
+rosm.cache
+data
